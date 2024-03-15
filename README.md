@@ -17,8 +17,10 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the quiz.
 
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on 
+API routes can be accessed on 
 
 [http://localhost:3000/api/quiz/question/](http://localhost:3000/api/quiz/question/) for getting a single question
+
+
 [http://localhost:3000/api/quiz/[questionId]?answer=[answer]](http://localhost:3000/api/quiz/somehash?answer=Argentina) for checking results
 
